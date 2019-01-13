@@ -4,5 +4,5 @@
 
 def roll
   rand(8)
-  rand(0...7)
+  rand(1...7)
 end
